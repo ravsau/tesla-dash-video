@@ -1,13 +1,4 @@
-Processed /Users/sauravsharma/Downloads/SavedClips/2023-04-03_09-59-24 at 2023-11-04 19:40:23
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:23:57
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:28:42
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:33:13
-An error occurred while processing /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20: time data '2023-04-02 repeater' does not match format '%Y-%m-%d %H-%M-%S'
-An error occurred while processing /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20: time data '2023-04-02 repeater' does not match format '%Y-%m-%d %H-%M-%S'
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:44:45
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:47:08
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 12:51:49
-An error occurred while processing /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20: time data '2023-04-02 repeater' does not match format '%Y-%m-%d %H-%M-%S'
-An error occurred while processing /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20: time data '2023-04-02 repeater' does not match format '%Y%m%d %H%M%S'
-An error occurred while processing /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20: time data '2023-04-02repeater' does not match format '%Y%m%d%H%M%S'
-Processed /Users/sauravsharma/Downloads/SavedClips2/2023-04-02_08-50-20 at 2023-11-05 13:05:55
+Processed 2023-04-02_17-54-20
+Processed 2023-04-02_08-50-20
+Skipped 2023-04-02_17-54-20
+Skipped 2023-04-02_08-50-20
